@@ -1,0 +1,2 @@
+JAVA_OPTS="-server -Xmx1536m -Djava.security.egd=file:/dev/./urandom"
+
